@@ -33,8 +33,8 @@
                     转换为对象，创建service层，调用dao层，向页面写入cookie,页面用来访问，
                     以此判断是否登录，能否访问页面</b></p>
           </td>
-          <td width="20%" height="95%">
-            <img src="/-93df63029fe2ac8_mr1550137039143.jpg" width="100%">
+          <td width="20%">
+            <img src="/-93df63029fe2ac8_mr1550137039143.jpg" width="80%">
             <h3>姓名：孙隽婵</h3>
             <p><b>求职意向：</b></p>
                     <p><b>前端工程师</b></p>
